@@ -1,0 +1,2 @@
+# exercicioGit
+Primeiro git clone
